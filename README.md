@@ -82,7 +82,7 @@ If you encounter further issues, use these commands to audit your audio environm
 
 ---
 
-**Maintainer:** [Your Name/VansKE]
+**Maintainer:** VansKE
 
 **Topic:** Linux Kernel Audio Optimization
 
